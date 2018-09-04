@@ -4,5 +4,6 @@
 ## mybinder
 
 * 地址：https://mybinder.org/
-* 生成的访问地址：https://mybinder.org/v2/gh/timpupu/MyPythonInCloud.git/master
-* https://mybinder.org/v2/gh/timpupu/MyPythonInCloud.git/master?urlpath=lab/tree/README.md
+* 生成的访问地址：https://mybinder.org/v2/gh/timpupu/MyPythonInCloud/master
+* https://mybinder.org/v2/gh/timpupu/MyPythonInCloud/master?urlpath=lab/tree/README.md
+
